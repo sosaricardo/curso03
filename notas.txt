@@ -1,5 +1,7 @@
 Línea 1: texto original Ricardo Sosa - Williams Cano
 Línea 2: texto original Williams Cano
+Línea 1: texto original Ricardo Sosa
+Línea 2: texto original RSok
 Línea 3: texto original
 Línea 4: texto original
 Línea 5: texto original prueba rs
